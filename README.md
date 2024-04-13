@@ -1,4 +1,5 @@
 # speech_to_text_example
+Speech (description about a picture) to text android application using Flutter
 
 Demonstrates how to use the speech_to_text plugin. This example requires 
 that the plugin has been installed. It initializes speech recognition, 
